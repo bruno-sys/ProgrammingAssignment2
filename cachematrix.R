@@ -65,7 +65,7 @@
 ##  makeCacheMatrix :                                                         ##
 ##                                                                            ##
 ##    x         a square numeric or complex matrix containing the             ##
-##              coefficients of the linear system. Other types are not going  ##                            ##
+##              coefficients of the linear system. Other types are not going  ##
 ##              to rise an error here, but they will rise on 'cacheSolve'.    ##
 ##                                                                            ##
 ##  cacheSolve :                                                              ##
